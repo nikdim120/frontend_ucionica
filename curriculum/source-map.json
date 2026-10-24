@@ -1,0 +1,569 @@
+[
+  {
+    "id": "01",
+    "day": 1,
+    "order": 1,
+    "title": "Prva stranica, prvi red koda",
+    "sources": [
+      {
+        "label": "lecture-understanding-the-html-boilerplate",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-understanding-the-html-boilerplate"
+      },
+      {
+        "label": "workshop-curriculum-outline",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-curriculum-outline"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "day": 1,
+    "order": 2,
+    "title": "Proizvodi, slike i veze",
+    "sources": [
+      {
+        "label": "workshop-cat-photo-app",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-cat-photo-app"
+      },
+      {
+        "label": "lab-travel-agency-page",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-travel-agency-page"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "day": 1,
+    "order": 3,
+    "title": "Semantika prodavnice",
+    "sources": [
+      {
+        "label": "lecture-importance-of-semantic-html",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-importance-of-semantic-html"
+      },
+      {
+        "label": "lab-event-hub",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-event-hub"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "day": 1,
+    "order": 4,
+    "title": "CSS: od selektora do cene",
+    "sources": [
+      {
+        "label": "workshop-cafe-menu",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-cafe-menu"
+      },
+      {
+        "label": "lecture-css-specificity-the-cascade-algorithm-and-inheritance",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-css-specificity-the-cascade-algorithm-and-inheritance"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "day": 1,
+    "order": 5,
+    "title": "Kartica i model kutije",
+    "sources": [
+      {
+        "label": "workshop-rothko-painting",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-rothko-painting"
+      },
+      {
+        "label": "lab-business-card",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-business-card"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "day": 1,
+    "order": 6,
+    "title": "Čitljiva stranica proizvoda",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-fonts",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-fonts"
+      },
+      {
+        "label": "lecture-working-with-relative-and-absolute-units",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-relative-and-absolute-units"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "day": 1,
+    "order": 7,
+    "title": "Jedinstven izgled: CSS promenljive",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-variables",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-variables"
+      },
+      {
+        "label": "workshop-city-skyline",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-city-skyline"
+      }
+    ]
+  },
+  {
+    "id": "js-01",
+    "day": 1,
+    "order": 8,
+    "title": "Prvi klik: HTML, CSS i JavaScript zajedno",
+    "sources": [
+      {
+        "label": "JetBrains: Introduction",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Introduction"
+      },
+      {
+        "label": "JetBrains: Functions",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Functions"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "day": 2,
+    "order": 1,
+    "title": "Prvi formular porudžbine",
+    "sources": [
+      {
+        "label": "workshop-hotel-feedback-form",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-hotel-feedback-form"
+      },
+      {
+        "label": "lab-checkout-page",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-checkout-page"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "day": 2,
+    "order": 2,
+    "title": "Dostava, izbori i grupisanje",
+    "sources": [
+      {
+        "label": "workshop-registration-form",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-registration-form"
+      },
+      {
+        "label": "lecture-accessible-tables-forms",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-accessible-tables-forms"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "day": 2,
+    "order": 3,
+    "title": "Validacija i vidljiv fokus",
+    "sources": [
+      {
+        "label": "lab-survey-form",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-survey-form"
+      },
+      {
+        "label": "lab-debug-donation-form",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-debug-donation-form"
+      },
+      {
+        "label": "lecture-best-practices-for-styling-forms",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-best-practices-for-styling-forms"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "day": 2,
+    "order": 4,
+    "title": "Tabela karakteristika",
+    "sources": [
+      {
+        "label": "lab-book-catalog-table",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-book-catalog-table"
+      },
+      {
+        "label": "workshop-final-exams-table",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-final-exams-table"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "day": 2,
+    "order": 5,
+    "title": "CSS za pregledne podatke",
+    "sources": [
+      {
+        "label": "workshop-balance-sheet",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-balance-sheet"
+      },
+      {
+        "label": "lab-book-inventory-app",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lab-book-inventory-app"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "day": 2,
+    "order": 6,
+    "title": "Slike različitih proporcija",
+    "sources": [
+      {
+        "label": "lecture-working-with-images-and-svgs",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-images-and-svgs"
+      },
+      {
+        "label": "lecture-best-practices-for-responsive-web-design",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-best-practices-for-responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "day": 2,
+    "order": 7,
+    "title": "Responsive 1: prvo telefon",
+    "sources": [
+      {
+        "label": "lecture-best-practices-for-responsive-web-design",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-best-practices-for-responsive-web-design"
+      },
+      {
+        "label": "workshop-piano",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/workshop-piano"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "day": 2,
+    "order": 8,
+    "title": "Responsive 2: prilagodljive dimenzije",
+    "sources": [
+      {
+        "label": "lecture-working-with-relative-and-absolute-units",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-relative-and-absolute-units"
+      },
+      {
+        "label": "lecture-best-practices-for-responsive-web-design",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-best-practices-for-responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "day": 2,
+    "order": 9,
+    "title": "Responsive 3: pronađi uzrok prelivanja",
+    "sources": [
+      {
+        "label": "lecture-debugging-css",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-debugging-css"
+      },
+      {
+        "label": "lecture-best-practices-for-responsive-web-design",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-best-practices-for-responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "day": 2,
+    "order": 10,
+    "title": "Oznaka Akcija i lepljivo zaglavlje",
+    "sources": [
+      {
+        "label": "lecture-understanding-how-to-work-with-floats-and-positioning-in-css",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-understanding-how-to-work-with-floats-and-positioning-in-css"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "day": 2,
+    "order": 11,
+    "title": "Promotivna sekcija: SVG, iframe i animacija",
+    "sources": [
+      {
+        "label": "lecture-working-with-images-and-svgs",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-images-and-svgs"
+      },
+      {
+        "label": "lecture-working-with-media",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-media"
+      },
+      {
+        "label": "lecture-animations-and-accessibility",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-animations-and-accessibility"
+      }
+    ]
+  },
+  {
+    "id": "js-02",
+    "day": 2,
+    "order": 12,
+    "title": "Količina i ukupan iznos porudžbine",
+    "sources": [
+      {
+        "label": "JetBrains: Variables",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Variables"
+      },
+      {
+        "label": "JetBrains: Data Types",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Data%20Types"
+      },
+      {
+        "label": "JetBrains: Operators",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Operators"
+      },
+      {
+        "label": "JetBrains: Functions",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Functions"
+      }
+    ]
+  },
+  {
+    "id": "layout-01",
+    "day": 3,
+    "order": 1,
+    "title": "Flexbox: ose, poravnanje i razmak",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-flexbox",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-flexbox"
+      }
+    ],
+    "mergedFrom": [
+      "2-01",
+      "2-02"
+    ]
+  },
+  {
+    "id": "layout-02",
+    "day": 3,
+    "order": 2,
+    "title": "Flexbox: veličine, prelamanje i dugačak sadržaj",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-flexbox",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-flexbox"
+      }
+    ],
+    "mergedFrom": [
+      "2-03",
+      "2-04"
+    ]
+  },
+  {
+    "id": "layout-03",
+    "day": 3,
+    "order": 3,
+    "title": "Kartica i popravka Flex zaglavlja",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-flexbox",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-flexbox"
+      }
+    ],
+    "mergedFrom": [
+      "2-05",
+      "2-06"
+    ]
+  },
+  {
+    "id": "layout-04",
+    "day": 3,
+    "order": 4,
+    "title": "Grid: kolone i prilagodljiva mreža proizvoda",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-grid",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-grid"
+      }
+    ],
+    "mergedFrom": [
+      "2-07",
+      "2-08"
+    ]
+  },
+  {
+    "id": "layout-05",
+    "day": 3,
+    "order": 5,
+    "title": "Grid: istaknuta kartica i oblasti stranice",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-grid",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-grid"
+      }
+    ],
+    "mergedFrom": [
+      "2-09",
+      "2-10"
+    ]
+  },
+  {
+    "id": "layout-06",
+    "day": 3,
+    "order": 6,
+    "title": "Grid i Flex zajedno: provera stvarnog sadržaja",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-grid",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-grid"
+      }
+    ],
+    "mergedFrom": [
+      "2-11",
+      "2-12"
+    ]
+  },
+  {
+    "id": "js-03",
+    "day": 3,
+    "order": 7,
+    "title": "Od objekta proizvoda do HTML kartice",
+    "sources": [
+      {
+        "label": "JetBrains: Data Structures",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Data%20Structures"
+      },
+      {
+        "label": "JetBrains: Loops",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Loops"
+      },
+      {
+        "label": "JetBrains: Functions",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Functions"
+      }
+    ]
+  },
+  {
+    "id": "tw-01",
+    "day": 4,
+    "order": 1,
+    "title": "Tailwind: kartica, formular i stanja",
+    "sources": [],
+    "mergedFrom": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": "tw-02",
+    "day": 4,
+    "order": 2,
+    "title": "Tailwind: Flex, Grid i responsive klase",
+    "sources": [
+      {
+        "label": "Tailwind Flex",
+        "url": "https://tailwindcss.com/docs/flex"
+      },
+      {
+        "label": "Tailwind Grid",
+        "url": "https://tailwindcss.com/docs/grid-template-columns"
+      }
+    ],
+    "mergedFrom": [
+      "2-14",
+      "2-15"
+    ]
+  },
+  {
+    "id": "2-16",
+    "day": 4,
+    "order": 3,
+    "title": "Nova Tailwind stranica od praznih datoteka",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-grid",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-grid"
+      }
+    ]
+  },
+  {
+    "id": "2-17",
+    "day": 4,
+    "order": 4,
+    "title": "Stvarni sadržaj, tastatura i popravka rasporeda",
+    "sources": [
+      {
+        "label": "lecture-working-with-css-grid",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/blocks/lecture-working-with-css-grid"
+      }
+    ]
+  },
+  {
+    "id": "bootstrap-01",
+    "day": 4,
+    "order": 5,
+    "title": "Bootstrap: isti katalog sa gotovim klasama",
+    "sources": [
+      {
+        "label": "Bootstrap grid",
+        "url": "https://getbootstrap.com/docs/5.3/layout/grid/"
+      },
+      {
+        "label": "Bootstrap cards",
+        "url": "https://getbootstrap.com/docs/5.3/components/card/"
+      },
+      {
+        "label": "React className",
+        "url": "https://react.dev/learn#adding-styles"
+      }
+    ]
+  },
+  {
+    "id": "js-04",
+    "day": 4,
+    "order": 6,
+    "title": "Prvi filter kataloga: podaci, uslov i događaj",
+    "sources": [
+      {
+        "label": "JetBrains: Conditional Statements",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Conditional%20Statements"
+      },
+      {
+        "label": "JetBrains: Data Structures",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Data%20Structures"
+      },
+      {
+        "label": "JetBrains: Loops",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Loops"
+      }
+    ]
+  },
+  {
+    "id": "delivery-01",
+    "day": 4,
+    "order": 7,
+    "title": "Završna isporuka: projekat, GitHub i odbrana",
+    "sources": [
+      {
+        "label": "JetBrains: Conditional Statements",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Conditional%20Statements"
+      },
+      {
+        "label": "JetBrains: Data Structures",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Data%20Structures"
+      },
+      {
+        "label": "JetBrains: Loops",
+        "url": "https://github.com/jetbrains-academy/javascript-course/tree/main/Loops"
+      },
+      {
+        "label": "Git tutorial",
+        "url": "https://git-scm.com/docs/gittutorial"
+      }
+    ]
+  }
+]

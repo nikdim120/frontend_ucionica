@@ -1,0 +1,82 @@
+[
+  {
+    "file": "fcc-box-1.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/lecture-transcripts/what-is-the-css-box-model-1.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/lecture-transcripts/what-is-the-css-box-model-1.png",
+    "credit": "freeCodeCamp",
+    "bytes": 69163,
+    "sha256": "13b51469155d925968f7000d84f5e9af68378bba2ac2b66e1bc83f15edb10753"
+  },
+  {
+    "file": "fcc-layers-1.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/css-box-model/diagram-1.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png",
+    "credit": "freeCodeCamp",
+    "bytes": 2604,
+    "sha256": "0230fc21b36134d9d06336e20a67b8f062f1a744509a07544f9401a1ca5ebba4"
+  },
+  {
+    "file": "fcc-box-2.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/lecture-transcripts/what-is-the-css-box-model-2.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/lecture-transcripts/what-is-the-css-box-model-2.png",
+    "credit": "freeCodeCamp",
+    "bytes": 75790,
+    "sha256": "a141f59243c12b248db022982bb1355f6f11427e1b35d70f3e5dd6df7e33a9cd"
+  },
+  {
+    "file": "fcc-box-3.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/lecture-transcripts/what-is-the-css-box-model-3.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/lecture-transcripts/what-is-the-css-box-model-3.png",
+    "credit": "freeCodeCamp",
+    "bytes": 82349,
+    "sha256": "3f441cb1adab867c79babcc734258b93d22e18d8f5896a6c9566aca04e86b5c3"
+  },
+  {
+    "file": "fcc-box-4.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/lecture-transcripts/what-is-the-css-box-model-4.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/lecture-transcripts/what-is-the-css-box-model-4.png",
+    "credit": "freeCodeCamp",
+    "bytes": 88111,
+    "sha256": "68737cfa0452d6277a130bf4beb08b879bde443952cb6601cda30db71d420a86"
+  },
+  {
+    "file": "fcc-layers-2.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/css-box-model/diagram-2.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-2.png",
+    "credit": "freeCodeCamp",
+    "bytes": 6847,
+    "sha256": "502be248644f200d0633d4f49dca28bb7aef56250a74d2c4427d957d2ac70983"
+  },
+  {
+    "file": "fcc-cat.jpg",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/cat-photo-app/relaxing-cat.jpg",
+    "original": "https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg",
+    "credit": "freeCodeCamp",
+    "bytes": 20781,
+    "sha256": "20dd0485696641afcfb44c478a657fbb5d58279a583ee47920a199e76e66cec8"
+  },
+  {
+    "file": "fcc-layers-3.png",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/css-box-model/diagram-3.png",
+    "original": "https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-3.png",
+    "credit": "freeCodeCamp",
+    "bytes": 15397,
+    "sha256": "d3c7886fa1f9f29a019f23951361ad4ded3a853fc98075f3fbd1b3413f6532c1"
+  },
+  {
+    "file": "fcc-product.jpg",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/labs/cube.jpg",
+    "original": "https://cdn.freecodecamp.org/curriculum/labs/cube.jpg",
+    "credit": "freeCodeCamp",
+    "bytes": 6647,
+    "sha256": "ec7ae1c2ebe6a794e943f93ec49c70c656e36547c4ed907377c8fbbb8f7172df"
+  },
+  {
+    "file": "fcc-event.jpg",
+    "source": "https://raw.githubusercontent.com/freeCodeCamp/cdn/main/build/curriculum/labs/event.jpg",
+    "original": "https://cdn.freecodecamp.org/curriculum/labs/event.jpg",
+    "credit": "freeCodeCamp",
+    "bytes": 23515,
+    "sha256": "717320e7fa349d5c09a9ad594adf88be9c64dd01a0b60b8dd78a3d3e55deef0a"
+  }
+]
